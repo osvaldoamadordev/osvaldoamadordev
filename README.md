@@ -106,7 +106,7 @@ Me motiva crear soluciones que realmente aporten valor, reduzcan fricción y mej
 
 - 📧 Email: **osvaldo.amador.dev@gmail.com**
 - 🌐 Website: [https://osvaldoamador.dev](https://osvaldoamador.dev)
-- 💼 LinkedIn: *(puedes agregarlo aquí)*
+- 💼 LinkedIn: *(https://www.linkedin.com/in/osvaldoamadordev/)*
 
 ---
 
