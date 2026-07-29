@@ -2,7 +2,7 @@
 
 ## 🚀 Full Stack Developer Engineer | Ingeniero en Sistemas Computacionales <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> 
 
-Soy **Ingeniero en Sistemas Computacionales** y **Desarrollador Full Stack** con más de **6 años de experiencia** construyendo aplicaciones web escalables, seguras y orientadas a negocio.
+Soy **Ingeniero en Sistemas Computacionales** y **Desarrollador Full Stack** con más de **7 años de experiencia** construyendo aplicaciones web escalables, seguras y orientadas a negocio.
 
 Me especializo en el desarrollo de **arquitecturas modernas (monolitos bien estructurados y microservicios)**, con un enfoque fuerte en **backend**, **cloud**, **calidad de código** y **optimización de procesos**.
 
